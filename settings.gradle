@@ -1,0 +1,11 @@
+
+pluginManagement {
+
+    resolutionStrategy {
+        eachPlugin {
+
+        }
+    }
+}
+rootProject.name = "CurrencyRates"
+include ':app'
